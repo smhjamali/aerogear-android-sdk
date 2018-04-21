@@ -1,7 +1,7 @@
 project.ext {
     // Global
 
-    minSdkVersion = 21
+    minSdkVersion = 16
     compileSdkVersion = 27
     targetSdkVersion = 27
     android_support_version = "27.1.0"
